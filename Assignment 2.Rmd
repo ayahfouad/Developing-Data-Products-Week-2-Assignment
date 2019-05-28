@@ -1,4 +1,10 @@
-## Developing Data Products Week 2 Assignment
+---
+title: "Developing Data Products Week 2 Assignment"
+author: "AyahFouad"
+date: "May 28th 2019"
+output: html_document
+---
+
 ### Instructions
 Create a web page using R Markdown that features a map created with Leaflet.
 
